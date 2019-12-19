@@ -9,11 +9,11 @@ Pre requisites:
  1. results created/updated when search article in google, shows results form other sources
  2. source and articles within 2 days are valid
 
-How Run Tests
+How To Run Tests
 =============
 Tests can be run with Maven or with Intellij
 
-1.Run tests with maven
+1.Run with maven
 ---------------
  Open command prompt and navigate to pom.xml location ;
  Run "mvn clean integration-test"
@@ -23,7 +23,7 @@ Tests can be run with Maven or with Intellij
  1.  mvn clean integration-test -Dbrowser.name=firefox
  2.  mvn clean integration-test -Dbrowser.name=ie
   
-2.Run tests with intellij
+2.Run with intellij
   ---------------
 
 1. Open "Edit Run Configurations" dialog.
