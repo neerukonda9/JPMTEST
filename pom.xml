@@ -8,7 +8,7 @@
     <version>1.0</version>
 
     <properties>
-        <spring.version>5.1.6.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
         <cucumber.version>4.3.1</cucumber.version>
         <junit.version>4.12</junit.version>
         <selenium.version>3.141.59</selenium.version>
